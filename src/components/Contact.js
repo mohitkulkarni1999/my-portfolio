@@ -118,28 +118,36 @@ const Contact = () => {
 
               <div className="flex gap-3 mt-auto pt-6">
                 <a
-                  href="#"
+                  href="https://github.com/mohitkulkarni1999"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="w-12 h-12 glass border border-white/20 rounded-xl flex items-center justify-center text-slate-700 hover:bg-gradient-to-br hover:from-primary-600 hover:to-primary-700 hover:text-white hover:-translate-y-1 hover:shadow-xl transition-all"
                   title="GitHub"
                 >
                   <i className="fab fa-github text-xl"></i>
                 </a>
                 <a
-                  href="#"
+                  href="https://linkedin.com/in/mohitkulkarni1999"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="w-12 h-12 glass border border-white/20 rounded-xl flex items-center justify-center text-slate-700 hover:bg-gradient-to-br hover:from-blue-600 hover:to-blue-700 hover:text-white hover:-translate-y-1 hover:shadow-xl transition-all"
                   title="LinkedIn"
                 >
                   <i className="fab fa-linkedin text-xl"></i>
                 </a>
                 <a
-                  href="#"
+                  href="https://twitter.com/mohitkulkarni99"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="w-12 h-12 glass border border-white/20 rounded-xl flex items-center justify-center text-slate-700 hover:bg-gradient-to-br hover:from-sky-600 hover:to-sky-700 hover:text-white hover:-translate-y-1 hover:shadow-xl transition-all"
                   title="Twitter"
                 >
                   <i className="fab fa-twitter text-xl"></i>
                 </a>
                 <a
-                  href="#"
+                  href="https://instagram.com/mohitkulkarni1999"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="w-12 h-12 glass border border-white/20 rounded-xl flex items-center justify-center text-slate-700 hover:bg-gradient-to-br hover:from-pink-600 hover:to-pink-700 hover:text-white hover:-translate-y-1 hover:shadow-xl transition-all"
                   title="Instagram"
                 >

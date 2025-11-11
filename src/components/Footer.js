@@ -52,13 +52,13 @@ const Footer = () => {
               A passionate Full Stack Developer - JAVA creating beautiful, responsive websites with clean code.
             </p>
             <div className="flex gap-3">
-              <a href="#" className="w-10 h-10 glass-dark rounded-lg flex items-center justify-center hover:bg-primary-600 transition-all hover:-translate-y-1">
+              <a href="https://github.com/mohitkulkarni1999" target="_blank" rel="noopener noreferrer" className="w-10 h-10 glass-dark rounded-lg flex items-center justify-center hover:bg-primary-600 transition-all hover:-translate-y-1">
                 <i className="fab fa-github"></i>
               </a>
-              <a href="#" className="w-10 h-10 glass-dark rounded-lg flex items-center justify-center hover:bg-blue-600 transition-all hover:-translate-y-1">
+              <a href="https://linkedin.com/in/mohitkulkarni1999" target="_blank" rel="noopener noreferrer" className="w-10 h-10 glass-dark rounded-lg flex items-center justify-center hover:bg-blue-600 transition-all hover:-translate-y-1">
                 <i className="fab fa-linkedin"></i>
               </a>
-              <a href="#" className="w-10 h-10 glass-dark rounded-lg flex items-center justify-center hover:bg-sky-600 transition-all hover:-translate-y-1">
+              <a href="https://twitter.com/mohitkulkarni99" target="_blank" rel="noopener noreferrer" className="w-10 h-10 glass-dark rounded-lg flex items-center justify-center hover:bg-sky-600 transition-all hover:-translate-y-1">
                 <i className="fab fa-twitter"></i>
               </a>
             </div>
