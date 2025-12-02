@@ -145,7 +145,7 @@ const Projects = () => {
                   alt={project.title}
                   className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                   onError={(e) => {
-                    e.target.src = 'https://via.placeholder.com/400x300/3b82f6/ffffff?text=Project';
+                    e.target.src = 'https://placehold.co/400x300/3b82f6/ffffff?text=Project';
                   }}
                 />
                 {/* Overlay gradient */}
